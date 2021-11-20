@@ -48,3 +48,10 @@ $ tar -cvzf Build/Data/fileadmin.tar.gz public/fileadmin
 $ ddev import-db --src Build/Data/dbdump.sql
 $ tar -xvzf Build/Data/fileadmin.tar.gz
 ```
+
+## Configuring a new project
+- Add Logo
+- Add favicon.ico and other icons
+- Install required additional extensions
+
+***
