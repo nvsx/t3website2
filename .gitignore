@@ -1,4 +1,3 @@
-.ddev
 /var/*
 !/var/labels
 /vendor
@@ -8,3 +7,7 @@
 /public/typo3conf/*
 !/public/typo3conf/LocalConfiguration.php
 !/public/typo3conf/AdditionalConfiguration.php
+# start development
+.ddev
+/ext/sitepackage/Resources/Public/CSS
+/ext/sitepackage/Resources/Public/Javascript
