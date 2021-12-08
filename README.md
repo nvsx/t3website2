@@ -54,4 +54,7 @@ $ tar -xvzf Build/Data/fileadmin.tar.gz
 - Add favicon.ico and other icons
 - Install required additional extensions
 
+## Select TYPO3 composer packages
+- https://get.typo3.org/misc/composer/helper
+
 ***
